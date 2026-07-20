@@ -1,2 +1,2 @@
-FROM justarchinet/archisteamfarm:latest
+FROM justarchinet/asf:latest
 COPY . /app/config
