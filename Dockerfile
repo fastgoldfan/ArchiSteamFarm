@@ -1,2 +1,2 @@
-FROM justarchinet/asf:latest
+FROM docker.io/justarchinet/archisteamfarm:latest
 COPY . /app/config
